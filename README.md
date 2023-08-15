@@ -2,7 +2,6 @@
 <html>
 
 <head>
-  <title>Classification Model</title>
 </head>
 <body>
 <h1>Stick Blur Classification</h1>
