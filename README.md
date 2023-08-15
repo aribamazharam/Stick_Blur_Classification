@@ -41,11 +41,6 @@
   <h2 id="Results">Results and Outcomes:</h2>
   <p>The model was trained for 5 epochs and achieved the following results:</p>
 
-  <li><a href="#videoInference">Video Inference</a></li>
-  <h2 id="videoInference">Video Inference:</h2>
-  <p>Post-training, the model was utilized to conduct inference on a video. For each frame of the video, the model determines its classification as 'blur' or 'no blur'. 
-   These frames were subsequently saved in designated folders based on their respective classifications.</p>
-
 
   <table>
     <tr>
@@ -67,6 +62,12 @@
       <td>0.0473 seconds</td>
     </tr>
   </table>
+
+    <li><a href="#videoInference">Video Inference</a></li>
+  <h2 id="videoInference">Video Inference:</h2>
+  <p>Post-training, the model was utilized to conduct inference on a video. For each frame of the video, the model determines its classification as 'blur' or 'no blur'. 
+   These frames were subsequently saved in designated folders based on their respective classifications.</p>
+   
 </body>
 
 </html>
