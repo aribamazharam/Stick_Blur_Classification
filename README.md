@@ -63,8 +63,8 @@
     </tr>
   </table>
 
-    <li><a href="#videoInference">Video Inference</a></li>
-  <h2 id="videoInference">Video Inference:</h2>
+    
+  <h2 id="Video Inference">Video Inference:</h2>
   <p>Post-training, the model was utilized to conduct inference on a video. For each frame of the video, the model determines its classification as 'blur' or 'no blur'. 
    These frames were subsequently saved in designated folders based on their respective classifications.</p>
    
