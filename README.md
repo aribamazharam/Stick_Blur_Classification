@@ -32,7 +32,12 @@
     <li>PyTorch as the deep learning framework</li>
     <li>EfficientNet model for Stick Blur classification</li>
   </ul>
-
+  
+  <h2>RAM</h2>
+  <ul>
+    <li>The RAM utilization was 6GB</li>
+  </ul>
+  
   <h2 id="Results">Results and Outcomes:</h2>
   <p>The model was trained for 5 epochs and achieved the following results:</p>
 
